@@ -1,0 +1,26 @@
+# Java
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven 
+target/
+
+# Gradle 
+build/
+
+# VS Code (por si algún día se abre desde acá)
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
